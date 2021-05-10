@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "dependencies": {
-    "slp-parser": "^0.0.3"
+    "slp-parser": "^0.0.4"
   },
   "devDependencies": {
     "turbo-http": "^0.3.2"
