@@ -17,7 +17,7 @@
     "bitcore-lib-cash": "^8.8.4",
     "cashaddrjs": "^0.3.8",
     "cors": "^2.8.5",
-    "dotenv": "^8.1.0",
+    "dotenv": "^16.0.1",
     "express": "^4.17.1",
     "google-protobuf": "^3.0.0",
     "grpc": "^1.11.0",
